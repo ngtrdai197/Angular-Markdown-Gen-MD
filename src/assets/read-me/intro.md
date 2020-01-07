@@ -1,7 +1,6 @@
 ### Hello
 >`Try generation site static`
 
-
 `run code`
 ```javascript
 const app = express()
